@@ -1,0 +1,145 @@
+.homeLeft{
+    height: 40rem;
+}
+
+.textBox h4{
+    font-size: 1.7rem;
+    color: #535756;
+}
+
+.textBox h2{
+    font-size: 5rem;
+    color: #1f2020;
+}
+
+.textBox h1{
+    font-size: 6rem;
+    color: #0b605a;
+}
+
+.textBox p{
+    font-size: 1.2rem;
+    color: #838685;
+}
+
+.textBox button{
+    border : none;
+    outline: none;
+    background-color: #0b605a;
+    color: #efefef;
+    font-size: 1.4rem;
+    width: 10rem;
+    padding: 1rem .1rem;
+    border-radius: .5rem;
+}
+
+.homeLeft img{
+    width: 80%;
+}
+
+/*this is for the new products*/
+
+.ThePopCat{
+    font-size: 2.6rem;
+    margin-bottom: 3rem;
+}
+
+.card-body h2{
+    text-transform: capitalize;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.card-body h3 span{
+    color: #0b605a;
+}
+
+.card-body h3 del{
+    color: #838685;
+    font-size: 1.2rem;
+}
+
+.card-body p{
+    font-size: 1.2rem;
+    color: #838685;
+}
+
+.card-body button img,
+.thesaved button img{
+    width: 2.5rem;
+}
+
+.card-body button,
+.thesaved button{
+    padding: .8rem;
+    border-radius: 10rem;
+    background-color: #bdbebe;
+}
+
+/*this is the deals banner style css*/
+
+.textBox h1{
+    font-size: 3rem;
+}
+
+.textBox h3{
+    color:#1f2020;
+    width: 75%;
+    font-size: 2rem;
+}
+
+.textBox h3 span{
+    color: #ff2a00;
+}
+.textBox h3 del{
+    color: #838685;
+    font-size: 1.2rem;
+}
+
+.theDive h4{
+    background-color: #0b605a;
+    color: #efefef;
+    text-align: center;
+    padding: 1rem 1.4rem;
+    border-radius: .5rem;
+}
+
+.theDive >p{
+    margin-top: -2rem;
+    font-size: 3rem;
+}
+
+.lessGre button{
+    font-size: 1.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50rem;
+    transition: all .5s ease-in-out;
+}
+
+.lessGre button .icont{
+    fill: #0b605a;
+}
+
+.lessGre button:hover .icont{
+    fill: #efefef;
+}
+
+.lessGre button:hover{
+    background-color: #0b605a;
+}
+
+/* For WebKit-based browsers (e.g., Chrome, Safari) */
+/* Note: These properties might not work in all versions */
+
+/* Track */
+.theScroll::-webkit-scrollbar {
+    height: 1rem;
+}
+
+/* Handle */
+.theScroll::-webkit-scrollbar-thumb {
+    border-radius: 1rem;
+    background-color: #0b605a;
+}
+

@@ -1,0 +1,38 @@
+form{
+    width: 50rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background: #fefeff;
+}
+
+.theLinkHed{
+    font-size: 1.3rem;
+    color: #eaf0f0;
+}
+
+.theLinkHed img{
+    width: 1.5rem;
+}
+
+.loginsection{
+    height: 60vh;
+}
+
+.loginImg{
+    width: 3rem;
+}
+
+.signImg {
+    width: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 93%;
+    transform: translate(-50% , -50%);
+    
+}
+
+.loginForm input{
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    padding: 1rem;
+}

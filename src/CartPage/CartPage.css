@@ -1,0 +1,135 @@
+.theLinkHed{
+    font-size: 1.2rem;
+}
+
+.theLinkHed h1 span{
+    color:#08403c !important ;
+}
+
+.theLinkHed h1{
+    color: aliceblue;
+}
+
+.theLinkHed img{
+    width: 1.5rem;
+}
+
+.thTable th{
+    font-weight: 400;
+    padding: .5rem;
+    border-bottom: .1px solid #abadac;
+    border-top: .1px solid #abadac;
+}
+
+.thTable td{
+    padding: 1.2rem .1px;
+    text-align: center;
+    border-bottom: .1px solid #dddcdc;
+}
+
+.thTable td:nth-child(1) img{
+    width: 10rem;
+}
+
+.thTable td:last-child img{
+    cursor: pointer;
+    width: 2rem;
+}
+
+.thTable td input{
+    width: 6rem;
+    padding: .6rem;
+    outline: none;
+    font-size: 1.3rem;
+}
+
+.orderbtn{
+    font-size: 1.5rem;
+    color: #eaf0f0;
+    background-color: #0b605a;
+}
+
+.printImg{
+    width: 4rem;
+}
+
+form input{
+    width: 100%;
+    padding: .8rem;
+    outline: none;
+    font-size: 1.3rem;
+}
+
+.theTb td{
+    font-size: 1.5rem;
+}
+
+.formButton{
+    padding: .7rem 1.4rem;
+    font-size: 1.5rem;
+    color: #eaf0f0;
+    background-color: #0b605a;
+    border-radius: .5rem;
+}
+
+.formButton img{
+    width: 2.8rem;
+    margin-right:1rem ;
+}
+
+.theImgBtn{
+    width: 2rem !important;
+}
+
+#active{
+    background-color: #0b605a;
+    color: aliceblue;
+}
+
+.theHeading{
+    font-size: 2rem;
+    color: #08403c;
+}
+
+label{
+    font-size: 1.6rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.borderBox{
+    border : 1px solid black
+}
+
+.theTextter{
+    width: 100%;
+    resize: none;
+    height: 13rem;
+    outline: none;
+}
+
+.btnBox{
+    background-color: #0b605a;
+    color: aliceblue;
+    width: 10rem;
+}
+
+.btnBox:hover{
+    background-color: #0b605a;
+    color: aliceblue;
+}
+
+.incresDisc{
+    background-color: #0b605a;
+    color: aliceblue !important;
+    
+}
+
+.incresDisc:hover{
+    background-color: #0b605a;
+}
+.inputBoc{
+    border: 1px solid #0b605a !important;
+    background-color: transparent;
+    height: 2.5rem;
+}

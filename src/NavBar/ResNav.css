@@ -1,0 +1,49 @@
+@media (min-width : 300px) and (max-width : 991px){
+    .theNavLink{
+        position: absolute;
+        padding-top: 3rem;
+        z-index: 10;
+        width : 100% !important;
+        height: 100vh !important;
+        top: 0;
+        right: -100%;
+        border: .1px solid #c0bebe;
+        background-color: #fefefe;
+        transition: all .5s ease-in-out;
+    }
+    
+    .theNavLink .theLinkboc{
+        flex-direction: column;
+        align-items: start !important;
+    }
+    
+    .theNavLink h3{
+        font-size: 2rem !important;
+    }
+
+    
+
+    /* .theSearchFrom form{
+        width: 20rem !important;
+        border: 1px solid black;
+    } */
+
+    .theCloseBox button{
+        width: 7rem;
+    }
+
+    .closebtn{
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .theLogo{
+        width: 14rem;
+    }
+
+    .theSearchCard{
+        position: static;
+        
+    }
+
+}

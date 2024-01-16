@@ -1,0 +1,102 @@
+.theLinkHed{
+    font-size: 1.3rem;
+    color: #eaf0f0;
+}
+
+.theLinkHed img{
+    width: 1.5rem;
+}
+
+.price{
+    margin-top: .4rem;
+    font-size: 2rem;
+    color: #838685;
+}
+
+select{
+    padding: .2rem .8rem;
+    font-size: 1.3rem;
+    width: 10rem;
+    outline: none;
+}
+
+/* .card > img{
+    transform: scale(0.8);
+} */
+
+.detel{
+    font-size: 1.3rem;
+}
+
+.OtherDele{
+    font-size: 1.3rem;
+    line-height: 3rem;
+}
+
+.OtherDele img{
+    width: 2rem;
+    margin-right: 1rem;
+}
+
+.theAddCartBox button{
+    font-size: 1.4rem;
+    border-radius: .4rem;
+    background: #0b605a;
+    color: #eaf0f0;
+}
+
+.theAddCartBox input{
+    font-size: 1.4rem;
+}
+.nextImgs img{
+    cursor: pointer;
+}
+
+.ReviwImg .left{
+    width: 20%;
+}
+
+.ReviwImg .left .imgBox{
+    width: 59%;
+    height: 100%;
+    border-radius:50rem ;
+    overflow: hidden;
+}
+
+.ReviwImg .left h4{
+    margin-top: 1rem;
+}
+
+.ReviwImg .left .imgBox img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.ReviwImg{
+    height: 10rem;
+}
+
+.ReviwImg .right img{
+    width: 6rem;
+}
+
+.theCard{
+    overflow: hidden;
+}
+
+.theCard:hover .sevedbtn{
+    top: 5%;
+    right: 5%;
+}
+
+.sevedbtn{
+    right: -50%;
+    background: transparent;
+}
+
+.sevedbtn img{
+    width: 2.5rem;
+}
+
+

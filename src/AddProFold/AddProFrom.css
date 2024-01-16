@@ -1,0 +1,8 @@
+.fromCont{
+    width: 100%;
+    height: 60rem;
+}
+
+.list-group li{
+    cursor: pointer;
+}

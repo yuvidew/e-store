@@ -1,0 +1,41 @@
+.theImgEmail{
+    width: 3rem;
+}
+
+h3{
+    font-size: 1.4rem;
+}
+
+.theSub{
+    font-size: 1.5rem;
+    padding: .7rem 1rem;
+    background-color: #1F2020;
+    color: aliceblue;
+}
+
+.logoFolt{
+    mix-blend-mode:multiply;
+    width: 16rem;
+}
+
+ul li{
+    font-size: 1.4rem;
+}
+
+.textLast{
+    font-size: 1.3rem;
+}
+.thePy img{
+    width: 10rem;
+}
+
+.theFooterForm{
+    height: 3.5rem;
+}
+
+.theFooterForm input{
+    font-size: 1.4rem;
+    outline: none;
+    border: none;
+    padding-left: .6rem;
+}

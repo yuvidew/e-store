@@ -1,0 +1,32 @@
+.theInput input{
+    padding: .7rem;
+    font-size: 1.4rem;
+    outline: none;
+} 
+
+.thTexter{
+    outline: none;
+    padding: .7rem;
+    font-size: 1.4rem;
+    height: 18rem;
+    width: 100%;
+    resize: none;
+    border: .1px solid #a8abab;
+}
+
+.theBox {
+    height: 9rem;
+}
+
+.titleText{
+    font-size: 1.8rem;
+    color: #0b605a;
+    text-transform: capitalize;
+}
+
+.radionCol{
+    accent-color: #0b605a;
+}
+
+
+

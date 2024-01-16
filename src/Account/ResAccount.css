@@ -1,0 +1,13 @@
+@media (min-width : 300px) and (max-width : 991px){
+    .theBtnList img{
+        width: 2rem;
+        margin-left: 0rem;
+    }
+
+    .theaccCard{
+        height: 80%;
+        width: 100%;
+        overflow-y: auto;
+    }
+
+}

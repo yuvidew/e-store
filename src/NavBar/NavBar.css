@@ -1,0 +1,179 @@
+header{
+    width: 100%;
+    height: 11rem;
+    overflow: hidden;
+}
+
+
+.logo{
+    width: 20rem;
+    mix-blend-mode:multiply;
+}
+
+.logoText{
+    font-size: 2.5rem;
+}
+
+/* 1ECA95 */
+
+.logoText span{
+    color: #c7934a;
+}
+
+.navLink{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.favcart{
+    margin-top: 4.7rem;
+    position: relative;
+}
+
+.favcart img{
+    width: 2.5rem;
+}
+
+.theMenu{
+    width: 2.5rem;
+}
+
+.navLink h3{
+    font-size: 1.5rem;
+}
+
+.headCol{
+    height: 9rem;
+}
+
+.image-with-background {
+}  
+
+.theSearchFrom .form{
+    width: 30rem;
+    border: .1px solid #0b605a;
+    padding: .6rem;
+    height: 4rem;
+    margin-top: 4rem;
+    border-radius: .5rem;
+}
+
+.form input{
+    font-size: 1.3rem;
+    padding: .3rem 1rem ;
+    width: 100%;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.form button{
+    background-color: #e3e1de;
+    font-size: 2rem;
+    padding: .4rem 1rem ;
+    border: none;
+    outline: none;
+    border-radius: .5rem;
+}
+
+.form button .searchIcon{
+    color: #c7934a !important;
+}
+
+.mainBox{
+    position: relative;
+}
+
+.mainBox img{
+    width: 2.8rem;
+}
+
+.mainBox span{
+    position: absolute;
+    top: -1rem;
+    display: block;
+    background: #e0b272;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    width: 2rem;
+    left: 1rem;
+    height: 2.5rem;
+    text-decoration: none;
+}
+
+.theNavBox{
+    border: .1px solid #e3e1de;
+    background: #fff;
+    height:100vh ;
+    z-index: 3;
+    padding: 1rem;
+    position: absolute;
+    width: 25%;
+    top: 0;
+    right: -100%;
+    transition: all .5s ease-in-out;
+}
+
+.theNewCont{
+    margin: auto;
+    width: 85%;
+}
+
+.theNewCont ul{
+    margin: 2rem 0;
+    padding: 0;
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.theNewCont ul li{
+    color: #b3b1ae;
+}
+
+.navLink{
+    text-decoration: none;
+    color: #1c1b19;
+    font-size: 1.7rem;
+    margin-bottom: .9rem;
+}
+
+.theLinks h1{
+    font-size: 2rem;
+}
+
+.theLinks p{
+    font-size: 1.2rem;
+}
+
+.theList h3,
+.thePy h3{
+    font-size: 2rem;
+}
+
+.favcart img{
+    cursor: pointer;
+}
+
+.theSearchCard{
+    position: absolute;
+    
+}
+
+.saveCout{
+    position: absolute;
+    top: -30%;
+    right: -10%;
+    display: block;
+    background-color: #0b605a;
+    width: 2rem;
+    border-radius: 2rem;
+    color: aliceblue;
+    height: 2rem;
+}
+.thebtnhbvas{
+    font-size: 1.4rem;
+    border-radius: .4rem;
+    background: #0b605a;
+    color: #eaf0f0;
+}
